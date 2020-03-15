@@ -1,0 +1,32 @@
+body{
+ background-image: url(../img/cat.jpg);
+ background-size: contain;
+ background-position: center;
+ font-family: Lato;
+}
+html{
+    height: 100%;
+}
+#content{
+    text-align: center;
+    padding-top: 25%;
+    color: white;
+    text-shadow: 5px 5px 10px red,
+                0px 8px 13px rgba(0, 0, 0, 0.1),
+                0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+
+h1{
+    color: white;
+    font-size: 5em;
+    font-weight: 700;
+}
+
+h3{
+    color: white;
+}
+hr{
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
