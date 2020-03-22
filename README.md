@@ -8,4 +8,4 @@ Perfect Match:
 ![Photo Sharing](photo-galary/images/photo-sharing.png)
 
 3. Museum of Candy Apps using [Bootstrap4](https://getbootstrap.com/docs/4.4/components/alerts/), JavaScript , HTML and CSS.
-![Photo Sharing](candy/imgs/museum-candy.png)
+![Museum Of candy](candy/imgs/museum-candy.png)
